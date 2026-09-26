@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kunal 👋
 
-<!--
-**kunall-ux/kunall-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in Data, AI/ML, and building practical technology solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- Power BI
+
+## 🚀 Currently Learning
+
+- Machine Learning
+- Statistics
+- Data Structures & Algorithms
+- AI Engineering
+
+## 📌 Goals
+
+Building practical projects and developing strong foundations for a career in AI/ML Engineering.
